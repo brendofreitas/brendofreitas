@@ -23,3 +23,8 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=brendofreitas&show_icons=true&locale=en" alt="brendofreitas" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brendofreitas&" alt="brendofreitas" /></p>
+
+
+
+
+![Snake animation](https://github.com/brendofreitas/brendofreitas/blob/output/github-contribution-grid-snake.svg)
