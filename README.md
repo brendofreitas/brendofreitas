@@ -27,4 +27,3 @@
 
 
 
-![Snake animation](https://github.com/brendofreitas/brendofreitas/blob/output/github-contribution-grid-snake.svg)
