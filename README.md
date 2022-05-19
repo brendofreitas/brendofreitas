@@ -1,15 +1,15 @@
 <h1 align="center">Oi 👋, sou Brendo Freitas</h1>
 <h3 align="center">Um desenvolvedor Back-end</h3>
 
-- 🔭 Estou trabalhando na **Selfimoveis**
+- 🔭 Estou trabalhando.
 
-- 🌱 Atualmente estou aprendendo **C#,.Net**
+- 🌱 Atualmente estou atuando com **C#,.Net**
 
-- 🤝 Estou procurando ajuda com **C#,.Net, AspNet, Angular**
+- 🤝 Estou procurando parceirias com **C#,.Net, AspNet, Angular**
 
 - 💬 Pergunte-me sobre **C#**
 
-- 📫 Como fale comigo **brendofreitas.s@hotmail.com**
+- 📫 E-mail **brendofreitas.s@hotmail.com**
 
 - 📄 Conheça minhas experiências no : <a href="https://www.linkedin.com/in/brendo-freitas-00b75416a/">Linkedin</a>
 
